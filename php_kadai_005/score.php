@@ -30,15 +30,6 @@
 
         echo '平均点:' . $result_average;
 
-
-
-
-
-
-
-
-
-
         ?>
     </body>
 </html>
