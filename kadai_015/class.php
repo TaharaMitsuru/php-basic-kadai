@@ -46,13 +46,11 @@
 
         print_r($food);
         echo '<br>';
-
         print_r($animal);
         echo '<br>';
 
         $food->show_price();
         echo '<br>';
-
         $animal->show_height();
         echo '<br>';
         ?>
